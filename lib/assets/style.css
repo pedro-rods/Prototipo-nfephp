@@ -1,0 +1,10 @@
+.caminho-pagina {
+    background-color: red;
+    font-weight: bold;
+}
+.space {
+    width: 100%;
+    background-color: transparent;
+    color: transparent;
+    height: 50px;
+}
